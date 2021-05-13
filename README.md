@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @FinnKrestel
+- 👀 I’m interested in coding front end and backend applications
+- 📝 But sometimes I also like to write or fork scripts
+- 📜 I usually work with
+  - Java
+  - JavaScript
+  - CSS
+  - HTML
